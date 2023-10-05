@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+  text-align: center;
+background-color: rgb(99, 27, 27);
+
+}
+input{
+    background-color: rgb(255, 255, 255);
+}
+label{
+    color: rgb(255, 255, 255);
+}
+#submit{
+    color: white;
+}
